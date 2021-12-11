@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- #Aula Code Kubow : Min: 34:17
+ #Aula Code Kubow : Min: 51,17
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
